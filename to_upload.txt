@@ -1,0 +1,4 @@
+\templates\solicitud\nuevo.html
+\controllers\solicitud.py
+\model\empleado_model.py
+\tests\*
